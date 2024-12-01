@@ -18,11 +18,6 @@ Features
    - Displays time in Minutes:Seconds:Milliseconds format (MM:SS:SS).
    - Responsive user interface with clear time format.
 
-**Screenshot**
-
-
-
-![Screenshot_20241129_223031](https://github.com/user-attachments/assets/e2440c06-542a-4c14-88e3-4d8840a842d6)
 
 **Requirements**
 
